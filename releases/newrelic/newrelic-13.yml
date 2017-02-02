@@ -14,7 +14,7 @@ license:
   version: f2c8ad2a080343aa75c5a9c23c8155ec9f5775ad
   fingerprint: f2c8ad2a080343aa75c5a9c23c8155ec9f5775ad
   sha1: 1854ab97b971a1f8c8e5c1f72dc8c2dbf1b10656
-commit_hash: 4d566f62
+commit_hash: 6f58381
 uncommitted_changes: false
 name: newrelic
-version: '13'
+version: '13.0.1'
